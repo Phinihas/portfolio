@@ -1,0 +1,571 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 8414
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+0.059 0.09 0.165 rg
+40. 796.8899999999999864 Td
+(PHINIHAS GANDI) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.008 0.518 0.78 rg
+40. 778.8899999999999864 Td
+(Software Engineer | AI/ML Engineer | Full-Stack Developer) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.278 0.333 0.412 rg
+40. 762.8899999999999864 Td
+(Email: phinihasgandi@gmail.com  |  Phone: +91 7995802047  |  Hyderabad, Telangana, India) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.278 0.333 0.412 rg
+40. 749.8899999999999864 Td
+(LinkedIn: linkedin.com/in/phinihas-gandi  |  GitHub: github.com/Phinihas) Tj
+ET
+0.8 0.84 0.88 RG
+0.75 w
+40. 734.8899999999999864 m
+555.2799999999999727 734.8899999999999864 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+40. 716.8899999999999864 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 0.255 0.333 rg
+40. 702.8899999999999864 Td
+(Software Engineer with 1+ year of experience at Posidex Technologies, specializing in AI/ML application development, backend) Tj
+T* (engineering, and full-stack development. Strong foundation in software engineering, object-oriented programming, database) Tj
+T* (management, SQL, REST APIs, and problem-solving, with hands-on experience developing enterprise applications and) Tj
+T* (AI-powered solutions. Proven ability to understand business requirements, design and implement reliable solutions, troubleshoot) Tj
+T* (technical issues, and collaborate effectively in a team environment.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+40. 641.8899999999999864 Td
+(WORK EXPERIENCE) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+40. 627.8899999999999864 Td
+(Posidex Technologies) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.392 0.455 0.545 rg
+433.67999999999995 627.8899999999999864 Td
+(Hyderabad, Telangana, India) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.008 0.518 0.78 rg
+40. 614.8899999999999864 Td
+(Associate Software Engineer – AI Team) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.392 0.455 0.545 rg
+473.4850000000000136 614.8899999999999864 Td
+(Jan 2026 – Present) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+40. 601.8899999999999864 Td
+(•  PII Extraction Platform: Built multimodal PII extraction for text, PDFs, images, URLs, and audio with entity validation,) Tj
+T* (deduplication, and batch processing using Python, FastAPI, LLMs, GLiNER, Presidio, OCR, FasterWhisper, and) Tj
+T* (ChromaDB.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+40. 568.3899999999999864 Td
+(•  PII Database Detection: Built database scanning workflows to identify sensitive information across MySQL, Oracle, SQL) Tj
+T* (Server, and PostgreSQL using LLM-based detection, Regex, Luhn/Verhoeff validation, SQLAlchemy, and FastAPI.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+40. 545.3899999999999864 Td
+(•  Multi-PII Masking Platform: Built PII detection and masking workflows for documents and images covering Aadhaar, PAN,) Tj
+T* (Passport, Driving License, Voter ID, phone, account, and card data using OCR, YOLO, FastAPI, MySQL, and Docker.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+40. 522.3899999999999864 Td
+(•  AI-Based Signature Verification: Built signature comparison and verification workflows using PyTorch, CLIP, OpenCV,) Tj
+T* (SIFT, ORB, SSIM, and image-processing techniques.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.008 0.518 0.78 rg
+40. 494.3899999999999864 Td
+(Trainee Associate Software Engineer) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.392 0.455 0.545 rg
+465.5999999999999659 494.3899999999999864 Td
+(Jun 2025 – Dec 2025) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+40. 481.3899999999999864 Td
+(•  Developed software components using Python, Java, Spring Boot, MySQL, SQL, and REST APIs.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.2 0.255 0.333 rg
+40. 468.8899999999999864 Td
+(•  Created synthetic Personally Identifiable Information \(PII\) datasets and performed image preprocessing and validation) Tj
+T* (using Python, Pillow, and OpenCV for AI/ML projects.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+40. 439.8899999999999864 Td
+(EDUCATION) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 425.8899999999999864 Td
+(Rajiv Gandhi University of Knowledge Technologies, Nuzvid) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+505.6899999999999977 425.8899999999999864 Td
+(2021 – 2025) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 0.255 0.333 rg
+40. 414.8899999999999864 Td
+(B.Tech in Computer Science and Engineering  |  CGPA: 8.05 / 10) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 401.8899999999999864 Td
+(Rajiv Gandhi University of Knowledge Technologies, Nuzvid) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+505.6899999999999977 401.8899999999999864 Td
+(2019 – 2021) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 0.255 0.333 rg
+40. 390.8899999999999864 Td
+(Pre-University Course  |  CGPA: 9.46 / 10) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 377.8899999999999864 Td
+(Z.P. High School, G Vemavaram) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.455 0.545 rg
+535.4800000000000182 377.8899999999999864 Td
+(2019) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 0.255 0.333 rg
+40. 366.8899999999999864 Td
+(Secondary School Certificate \(SSC\)  |  CGPA: 10.0 / 10) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+40. 352.8899999999999864 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 339.8899999999999864 Td
+(• Programming: Python, Java, JavaScript, TypeScript, SQL, C++, C) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 329.3899999999999864 Td
+(• AI/ML: LLMs, NLP, GLiNER, OCR, Computer Vision, PyTorch, OpenCV, NumPy, Pandas, CLIP, YOLO, AdaFace) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 318.8899999999999864 Td
+(• Backend: FastAPI, Spring Boot, Node.js, Express.js, REST APIs, SQLAlchemy, Presidio, FasterWhisper) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 308.3899999999999864 Td
+(• Web & Mobile: React, Next.js, Angular, Flutter, HTML, CSS, Tailwind CSS) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 297.8899999999999864 Td
+(• Databases: MySQL, PostgreSQL, MongoDB, ChromaDB, Qdrant, Supabase, Firebase) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 287.3899999999999864 Td
+(• DevOps & Tools: Git, GitHub, Docker, Kubernetes, Jenkins, Linux, Windows, Vercel) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 276.8899999999999864 Td
+(• Core Concepts: Object-Oriented Programming \(OOP\), Data Structures, DBMS, API Development) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+40. 262.3899999999999864 Td
+(FEATURED PROJECTS) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 249.3899999999999864 Td
+(• Face Matching System  \(Python, OpenCV, AdaFace, Qdrant, FastAPI, React\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+48. 239.3899999999999864 Td
+(AI-based face detection and similarity matching using vector search. Achieved 98.15% accuracy and 99.86% ROC-AUC on 6,000 LFW) Tj
+T* (pairs.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 217.3899999999999864 Td
+(• TripPilot  \(React.js, TypeScript, Tailwind CSS, Node.js, Express.js, Firebase\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+48. 207.3899999999999864 Td
+(AI-powered travel planner generating personalized itineraries based on destination, budget, duration, and interests.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 194.8899999999999864 Td
+(• CarePlus  \(React.js, TypeScript, Tailwind CSS, Firebase, Node.js, Express.js\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+48. 184.8899999999999864 Td
+(Full-stack hospital platform with OPD booking, token management, prescriptions, diagnostics, and appointments.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 172.3899999999999864 Td
+(• CreatorHub  \(React, TypeScript, Tailwind CSS, Node.js, Express.js, Firebase\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+48. 162.3899999999999864 Td
+(AI-assisted creator platform for generating video ideas, titles, hooks, descriptions, and scripts.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260926093721-00'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000008618 00000 n 
+0000010435 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000008675 00000 n 
+0000008800 00000 n 
+0000008930 00000 n 
+0000009063 00000 n 
+0000009200 00000 n 
+0000009323 00000 n 
+0000009452 00000 n 
+0000009584 00000 n 
+0000009720 00000 n 
+0000009848 00000 n 
+0000009975 00000 n 
+0000010104 00000 n 
+0000010237 00000 n 
+0000010339 00000 n 
+0000010683 00000 n 
+0000010769 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <2AC61E233E447EEF90CE4C53C6D2EF8D> <2AC61E233E447EEF90CE4C53C6D2EF8D> ]
+>>
+startxref
+10873
+%%EOF
